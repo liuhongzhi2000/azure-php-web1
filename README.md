@@ -2,4 +2,4 @@
 test
 
 git add . 
-git commit -a -
+git commit -a -m "message"
