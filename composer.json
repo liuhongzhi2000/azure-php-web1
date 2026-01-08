@@ -1,0 +1,7 @@
+{
+  "name": "plain/php-app",
+  "description": "Plain PHP 8.3 app for Azure",
+  "require": {
+    "php": "^8.3"
+  }
+}
